@@ -1,0 +1,8 @@
+.crd{
+   
+transition: .3s ease-in-out;
+}
+.crd:hover{
+    transform: scale(1.07);
+    box-shadow: rgba(255, 238, 0, 0.24) 0px 3px 8px;
+}
